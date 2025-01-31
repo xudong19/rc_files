@@ -1,0 +1,13 @@
+[alias]
+        co = checkout
+        br = branch
+        ci = commit
+        st = status
+        amend = commit --amend -m
+        cp = cherry-pick
+[user]
+        email = dongxu10@gmail.com
+        name = Xu Dong
+[core]
+	editor = vim
+
